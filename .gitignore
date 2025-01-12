@@ -1,0 +1,8 @@
+*.next*
+*node_modules*
+*eslint*
+*next-env*
+*next.config*
+package.json
+package-lock.json
+postcss.config.mjs
